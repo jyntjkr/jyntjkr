@@ -1,6 +1,6 @@
 -  Hi👋 I’m Jayant.
--  I’m interested in computers, internet, writing, and music.
--  I’m currently learning full-stack web development with Javascript.
+-  I’m interested in computers, writing, and music.
+-  I’m currently learning to build websites using MERN stack.
 -  I’m looking to collaborate on interesting and audacious projects.
 -  You can reach me at jyntjkr@gmail.com.
 <!---
