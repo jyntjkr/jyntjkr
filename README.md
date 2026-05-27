@@ -3,4 +3,4 @@ jyntjkr/jyntjkr is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 ---> 
 CS undergrad, India  
-[twitter](https://x.com/jyntjkr) | [linkedin](https://linkedin.com/in/jayantjakhar) | [website](https://jynt.xyz) | [mail](mailto:jyntjkr@gmail.com)
+[twitter](https://x.com/jyntjkr) | [linkedin](https://linkedin.com/in/jayantjakhar) | [mail](mailto:jyntjkr@gmail.com)
